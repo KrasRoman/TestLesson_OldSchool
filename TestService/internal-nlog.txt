@@ -1,0 +1,35 @@
+2019-11-27 17:44:27.2327 Error Parsing configuration from C:\Users\Roman\Source\Repos\TestService\TestService\bin\Debug\netcoreapp2.1\nlog.config failed. Exception: NLog.NLogConfigurationException: Exception when parsing C:\Users\Roman\Source\Repos\TestService\TestService\bin\Debug\netcoreapp2.1\nlog.config.  ---> NLog.NLogConfigurationException: Target blackhole not found.
+   at NLog.Config.XmlLoggingConfiguration.ParseLoggerElement(NLogXmlElement loggerElement, IList`1 rulesCollection)
+   at NLog.Config.XmlLoggingConfiguration.ParseRulesElement(NLogXmlElement rulesElement, IList`1 rulesCollection)
+   at NLog.Config.XmlLoggingConfiguration.ParseNLogElement(NLogXmlElement nlogElement, String filePath, Boolean autoReloadDefault)
+   at NLog.Config.XmlLoggingConfiguration.Initialize(XmlReader reader, String fileName, Boolean ignoreErrors)
+   --- End of inner exception stack trace ---
+2019-11-27 17:44:27.2368 Warn Failed loading config from C:\Users\Roman\Source\Repos\TestService\TestService\bin\Debug\netcoreapp2.1\nlog.config. Invalid XML?
+2019-11-27 17:47:32.4688 Error Parsing configuration from C:\Users\Roman\Source\Repos\TestService\TestService\bin\Debug\netcoreapp2.1\nlog.config failed. Exception: NLog.NLogConfigurationException: Exception when parsing C:\Users\Roman\Source\Repos\TestService\TestService\bin\Debug\netcoreapp2.1\nlog.config.  ---> NLog.NLogConfigurationException: Target blackhole not found.
+   at NLog.Config.XmlLoggingConfiguration.ParseLoggerElement(NLogXmlElement loggerElement, IList`1 rulesCollection)
+   at NLog.Config.XmlLoggingConfiguration.ParseRulesElement(NLogXmlElement rulesElement, IList`1 rulesCollection)
+   at NLog.Config.XmlLoggingConfiguration.ParseNLogElement(NLogXmlElement nlogElement, String filePath, Boolean autoReloadDefault)
+   at NLog.Config.XmlLoggingConfiguration.Initialize(XmlReader reader, String fileName, Boolean ignoreErrors)
+   --- End of inner exception stack trace ---
+2019-11-27 17:47:32.4728 Warn Failed loading config from C:\Users\Roman\Source\Repos\TestService\TestService\bin\Debug\netcoreapp2.1\nlog.config. Invalid XML?
+2019-11-27 17:48:40.5428 Error Parsing configuration from C:\Users\Roman\Source\Repos\TestService\TestService\bin\Debug\netcoreapp2.1\nlog.config failed. Exception: NLog.NLogConfigurationException: Exception when parsing C:\Users\Roman\Source\Repos\TestService\TestService\bin\Debug\netcoreapp2.1\nlog.config.  ---> NLog.NLogConfigurationException: Target blackhole not found.
+   at NLog.Config.XmlLoggingConfiguration.ParseLoggerElement(NLogXmlElement loggerElement, IList`1 rulesCollection)
+   at NLog.Config.XmlLoggingConfiguration.ParseRulesElement(NLogXmlElement rulesElement, IList`1 rulesCollection)
+   at NLog.Config.XmlLoggingConfiguration.ParseNLogElement(NLogXmlElement nlogElement, String filePath, Boolean autoReloadDefault)
+   at NLog.Config.XmlLoggingConfiguration.Initialize(XmlReader reader, String fileName, Boolean ignoreErrors)
+   --- End of inner exception stack trace ---
+2019-11-27 17:48:40.5484 Warn Failed loading config from C:\Users\Roman\Source\Repos\TestService\TestService\bin\Debug\netcoreapp2.1\nlog.config. Invalid XML?
+2019-11-27 17:52:37.9212 Error Parsing configuration from C:\Users\Roman\Source\Repos\TestService\TestService\bin\Debug\netcoreapp2.1\nlog.config failed. Exception: NLog.NLogConfigurationException: Exception when parsing C:\Users\Roman\Source\Repos\TestService\TestService\bin\Debug\netcoreapp2.1\nlog.config.  ---> NLog.NLogConfigurationException: Target blackhole not found.
+   at NLog.Config.XmlLoggingConfiguration.ParseLoggerElement(NLogXmlElement loggerElement, IList`1 rulesCollection)
+   at NLog.Config.XmlLoggingConfiguration.ParseRulesElement(NLogXmlElement rulesElement, IList`1 rulesCollection)
+   at NLog.Config.XmlLoggingConfiguration.ParseNLogElement(NLogXmlElement nlogElement, String filePath, Boolean autoReloadDefault)
+   at NLog.Config.XmlLoggingConfiguration.Initialize(XmlReader reader, String fileName, Boolean ignoreErrors)
+   --- End of inner exception stack trace ---
+2019-11-27 17:52:37.9255 Warn Failed loading config from C:\Users\Roman\Source\Repos\TestService\TestService\bin\Debug\netcoreapp2.1\nlog.config. Invalid XML?
+2019-11-27 17:53:03.8058 Error Parsing configuration from C:\Users\Roman\Source\Repos\TestService\TestService\bin\Debug\netcoreapp2.1\nlog.config failed. Exception: NLog.NLogConfigurationException: Exception when parsing C:\Users\Roman\Source\Repos\TestService\TestService\bin\Debug\netcoreapp2.1\nlog.config.  ---> NLog.NLogConfigurationException: Target blackhole not found.
+   at NLog.Config.XmlLoggingConfiguration.ParseLoggerElement(NLogXmlElement loggerElement, IList`1 rulesCollection)
+   at NLog.Config.XmlLoggingConfiguration.ParseRulesElement(NLogXmlElement rulesElement, IList`1 rulesCollection)
+   at NLog.Config.XmlLoggingConfiguration.ParseNLogElement(NLogXmlElement nlogElement, String filePath, Boolean autoReloadDefault)
+   at NLog.Config.XmlLoggingConfiguration.Initialize(XmlReader reader, String fileName, Boolean ignoreErrors)
+   --- End of inner exception stack trace ---
+2019-11-27 17:53:03.8058 Warn Failed loading config from C:\Users\Roman\Source\Repos\TestService\TestService\bin\Debug\netcoreapp2.1\nlog.config. Invalid XML?
