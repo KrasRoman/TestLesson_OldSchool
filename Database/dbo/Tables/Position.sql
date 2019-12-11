@@ -1,0 +1,6 @@
+﻿CREATE TABLE [dbo].[Position] (
+    [Uid]  UNIQUEIDENTIFIER NOT NULL,
+    [Name] VARCHAR (MAX)    NOT NULL,
+    CONSTRAINT [PK_Position] PRIMARY KEY CLUSTERED ([Uid] ASC)
+);
+
